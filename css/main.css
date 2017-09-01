@@ -15,6 +15,15 @@ body {
 #cetagory{
     padding-top: 12%;
 }
+#shopPage{
+    padding-top: 10%;
+    padding-bottom: 20px;
+}
+.feature_items .col-sm-3{
+    width: 17%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
 
 
 .container-fluid{
@@ -1182,19 +1191,7 @@ h2.title {
 
 
 
-#advertisement{
-    padding-top: 13%;
-    padding-bottom: 20px;
-}
 
-#advertisement img {
-  width: 100%;
-}
-.feature_items .col-sm-3{
-    width: 17%;
-    padding-left: 0px;
-    padding-right: 0px;
-}
 .item-card .media {
     margin-top: 0;
     position: relative;
