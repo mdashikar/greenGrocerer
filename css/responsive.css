@@ -3,6 +3,23 @@
 
 }
 
+/*shop responsive*/
+    @media only screen and (min-width:1720px) {
+    .prowidth
+        {
+            width: 234px !important;
+        }
+       .item-card
+        {
+            width: 248px !important;
+        }
+      .container
+        {
+            width: 1403px !important;
+        }
+        
+}
+
 /* md */
 @media (min-width: 992px) and (max-width: 1199px) {
  
@@ -519,6 +536,7 @@ ul.sub-menu{
 	padding-left: 0;
 	text-align: center;
 }
+
 
 .product-information span span{
 	float: none;
